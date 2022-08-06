@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Hotkeys")]
 [assembly: AssemblyDescription("A small Library for binding global Hotkeys")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("mrousavy")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Hotkeys")]
-[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -5,7 +5,7 @@ using System.Windows.Input;
 using System.Windows.Interop;
 using System.Windows.Threading;
 
-namespace mrousavy {
+namespace Hotkeys {
     public sealed class HotKey : IDisposable {
         private readonly IntPtr _handle;
 

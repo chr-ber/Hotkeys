@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Windows.Input;
 
-namespace mrousavy {
+namespace Hotkeys {
     public class HotKeyWinApi {
         public const int WmHotKey = 0x0312;
 
